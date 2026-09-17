@@ -247,4 +247,4 @@ This repository serves as the official landing page for MiKTeX. The software is 
 **Get the most recent version of MiKTeX today!**
 
 ---
-**Last updated:** 2026-09-17 01:01:46 UTC
+**Last updated:** 2026-09-17 07:02:44 UTC
